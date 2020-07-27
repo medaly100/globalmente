@@ -1,0 +1,39 @@
+@font-face{
+    font-family: domine-1;
+    src:url(../fonts/Domine/Domine-Regular.ttf)
+}
+@font-face{
+    font-family: domine-2;
+    src: url(../fonts/Domine/Domine-Bold.ttf)
+}@font-face{
+    font-family: enriqueta;
+    src: url(../fonts/Enriqueta/Enriqueta-Regular.ttf)
+}
+@font-face{
+    font-family: noticia-text;
+    src: url(../fonts/Noticia_Text/NoticiaText-Regular.ttf)
+}
+@font-face{
+    font-family: abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf)
+}
+@font-face{
+    font-family: anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf)
+}
+@font-face{
+    font-family: josefin-1;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf)
+}
+@font-face{
+    font-family: josefin-2;
+    src: url(../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf)
+}
+@font-face{
+    font-family: lexend;
+    src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf)
+}
+@font-face{
+    font-family: livvic;
+    src: url(../fonts/Livvic/Livvic-Black.ttf)
+}
